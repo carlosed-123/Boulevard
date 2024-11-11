@@ -1,9 +1,9 @@
 //BOULEVARD - VERSÃO 1
 //Versão utilizando vetores. Vai precisar informar quantos animais serão cadastrados.
 
-// precisa cadastrar os animais e exibir relatório com o nome do animal, tipo(cão ou gato), nome do dono e telefone pra falar com o dono
+// precisa cadastrar os animais e exibir relatório com o nome do animal, tipo, nome do dono e telefone pra falar com o dono
 // Desconsidera que vários animais podem ser do mesmo dono
-// cada animal tem um nome, um dono e uma data que fez o cadastro.
+// cada animal tem um nome e um dono.
 // cada info deve ficar num vetor diferente.
 
 import java.util.Scanner;
